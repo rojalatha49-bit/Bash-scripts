@@ -39,3 +39,18 @@ git init
 clear
 ll
 sudo -i
+ls
+git config --global --list
+git config --global user.email "rojalatha49@gmail.com"
+git config --global --list
+git add .
+git commit -m "bash"
+git push -u orgin main
+git status
+git log
+git branch
+git push -u origin master
+[200~git branch -M main
+~git branch -M main
+git branch -M main
+git push -u origin main
