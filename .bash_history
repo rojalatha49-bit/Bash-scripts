@@ -53,4 +53,4 @@ git push -u origin master
 [200~git branch -M main
 ~git branch -M main
 git branch -M main
-git push -u origin main run
+git push -u origin main
