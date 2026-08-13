@@ -52,5 +52,6 @@ git branch
 git push -u origin master
 [200~git branch -M main
 ~git branch -M main
-git branch -M main
+git branch -M main 
 git push -u origin main
+My name .
